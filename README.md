@@ -1,0 +1,1 @@
+This is a Repo to train myself on how to build a twitter bot using Javascript, Node JS, Heroku and other web frameworks and applications.
